@@ -8,6 +8,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.cv_enabled == true %}
+      <li>
+        <a href="{{ 'cv' | relative_url }}" title="My CV">
+          {% include svg-icon.html icon="cv" %}
+        </a>
+      </li>
+    {% endif %}
     {% if site.social.facebook %}
       <li>
         <a href="https://www.facebook.com/{{ site.social.facebook }}" rel="noreferrer noopener" target="_blank" title="Facebook">
