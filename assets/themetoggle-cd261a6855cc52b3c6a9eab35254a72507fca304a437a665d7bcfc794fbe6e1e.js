@@ -1,0 +1,1 @@
+function toggle(){"light"==localStorage.getItem("theme")?localStorage.setItem("theme","dark"):"dark"==localStorage.getItem("theme")&&localStorage.setItem("theme","light"),themer()}function themer(){var e=localStorage.getItem("theme");document.getElementById("light");dark.disabled="dark"!=e}localStorage.getItem("theme")||localStorage.setItem("theme","light"),themer();
