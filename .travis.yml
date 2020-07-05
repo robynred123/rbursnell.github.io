@@ -21,3 +21,11 @@ env:
     - LC_ALL=en_US.UTF-8
     - JEKYLL_ENV=production
 
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  target_branch: master
+  on:
+    branch: dev
