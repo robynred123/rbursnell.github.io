@@ -24,4 +24,4 @@ Along the top of the website you'll se a number of icons, these will navigate yo
 
 Eventually I'll figure out how to pin this post, as I realise the navigation is a little confusing.
 
-                    ..Or I'll just redo the navigation entirely.
+..Or I'll just redo the navigation entirely.
