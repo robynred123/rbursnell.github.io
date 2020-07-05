@@ -38,11 +38,9 @@ Used tools
   - [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
   - [HTML5 Boilerplate](https://html5boilerplate.com/) (Influenced by)
   - [Kickster](https://kickster.nielsenramon.com/)
-  - [Retina.js](https://imulus.github.io/retinajs/)
   - [STACSS](https://stacss.nielsenramon.com/)
   - [Travis](https://travis-ci.org/)
   - [Yarn](https://yarnpkg.com)
-  - [Zooming](https://github.com/kingdido999/zooming/)
 
 ## Usage
 
