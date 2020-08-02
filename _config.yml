@@ -3,7 +3,7 @@
 blog_theme: light # Or use dark
 name: <RB/>
 paginate: 25
-url: http://rbursnell.github.io
+url: www.rbursnell.netlify.app
 
 
 # Optional settings
