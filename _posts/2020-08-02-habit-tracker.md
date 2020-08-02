@@ -14,3 +14,6 @@ In the future I will look into adding in cloud storage for syncing progress acro
 One issue I've come across is that earlier in the year I bought a new PC, great specs for gaming. 
 Sadly with an AMD processor, which refuses to run a mobile emulator. So all testing is being done on my physical device!
 Not ideal, but it could be worse.
+
+## Website
+On another note, I cannot for the life of me get my CV centre aligned. 
