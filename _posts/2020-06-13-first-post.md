@@ -5,7 +5,7 @@ title:  "My First Post"
 
 # Welcome To My Website
 
-This is the first post made on my webiste, with hopefully many more to come. 
+This is the first post made on my website, with hopefully many more to come. 
 
 Thank you for taking the time to visit, and I hope you find this interesting. 
 
